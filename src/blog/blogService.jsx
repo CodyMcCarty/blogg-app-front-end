@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const EMPLOYEES_REST_API_URL = 'http://localhost:8080/api/v1/blog';
 // const EMPLOYEES_REST_API_URL = 'http://localhost:8080/api/v1/blog';
+const EMPLOYEES_REST_API_URL = 'https://blog-react-springboot-psql.herokuapp.com/api/v1/blog';
 
 class BlogService {
 
